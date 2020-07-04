@@ -1,4 +1,4 @@
-## valid-phone-number
+# valid-phone-number
 
 this a simple module for valid number phone (at the moment only Mexicans)
 
