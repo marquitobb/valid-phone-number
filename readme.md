@@ -6,7 +6,7 @@ this a simple module for valid number phone (at the moment only Mexicans)
 
 import function validate number
 
-`import isValidPhone from 'valid-phone-number'`
+``const {isValidPhone} = require("valid-phone-number")``
 
 and for using...
 
